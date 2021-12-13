@@ -2,8 +2,8 @@
 ### P4ssw0rd:
 Ch@mpl@1n!21
 ### Domain Admin/Name:
-final-adm
-grp3.local
+* final-adm
+* grp3.local
 ## Milestone 1:
 | Name      | IP | OS |
 | ----------- | ----------- | ---------- |
