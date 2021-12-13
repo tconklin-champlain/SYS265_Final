@@ -10,5 +10,5 @@ grp3.local
 | DC1 | 172.16.1.12 | Windows Server Core |
 | DC2 | 172.16.1.13 | Windows Server Core |
 | mgmt01 | 172.16.1.14 | Windows Server |
-| wk1 | DHCP// 172.16.1.20 | Windows Workstation |
-| wk2 | DHCP// 172.16.1.21 | Windows Workstation |
+| wk1 | DHCP // 172.16.1.20 | Windows Workstation |
+| wk2 | DHCP // 172.16.1.21 | Windows Workstation |
