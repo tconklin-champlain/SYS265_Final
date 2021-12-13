@@ -5,8 +5,8 @@ Ch@mpl@1n!21
 final-adm
 grp3.local
 ## Milestone 1:
-| Syntax      | Description |
-| ----------- | ----------- |
+| Name      | IP | OS |
+| ----------- | ----------- | ---------- |
 | fw-final | 172.16.1.2 | Pfsense |
 | DC1 | 172.16.1.12 | Windows Server Core |
 | DC2 | 172.16.1.13 | Windows Server Core |
